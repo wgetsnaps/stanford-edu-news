@@ -1,4 +1,5 @@
-#  Mirror of www.stanford.edu/news 
+#  Mirror of Stanford Homepage news section 
+
 
 Mirror: 
 
