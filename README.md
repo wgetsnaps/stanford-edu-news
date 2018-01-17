@@ -1,6 +1,15 @@
 #  Mirror of www.stanford.edu/news 
 
-Mirror: https://wgetsnaps.github.io/stanford-edu-news/news/
+Mirror: 
+
+https://wgetsnaps.github.io/stanford-edu-news/news/
+
+Simple:
+
+https://wgetsnaps.github.io/stanford-edu-news/news/simple.html
+
+
+
 
 Original: https://www.stanford.edu/news/
 
